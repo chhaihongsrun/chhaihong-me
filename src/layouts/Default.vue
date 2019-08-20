@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col h-full p-5">
     <header class="h-100">
-      <h1 class="text-3xl lg:text-6xl text-teal-700 hover:text-teal-600">{{ $static.metaData.siteName }}</h1>
+      <h1 class="text-4xl lg:text-6xl text-teal-700 hover:text-teal-600">{{ $static.metaData.siteName }}</h1>
       <nav class="nav mt-5">
         <g-link class="mr-3 px-3 py-1 border border-teal-700 rounded text-teal-700 hover:text-teal-600" to="/">Home</g-link>
         <g-link class="mr-3 px-3 py-1 border border-teal-700 rounded text-teal-700 hover:text-teal-600" to="/metadata">Metadata</g-link>
