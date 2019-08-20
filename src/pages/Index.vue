@@ -1,19 +1,17 @@
 <template>
   <Layout>
-    
-    <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    <g-image alt="Example image" src="~/favicon.png" width="135" />
-    
-    <h1>Hello, world!</h1>
-   
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
-    </p>
-
-    <p class="home-links">
-      <a href="https://gridsome.org/docs" target="_blank" rel="noopener">Gridsome Docs</a>
-      <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
-    </p>
+    <div class="text-teal-700 mt-6 lg:mt-12">
+      <ul class="list-inside">
+        <li class="mt-6">
+          <h2 class="text-xl lg:text-2xl text-blue-700">A little bit about me</h2>
+          <p class="text-base lg:text-lg">A am a developer based in Cambodia. I am interested in anything that is related to Computer, from Backend to Frontend.</p>
+        </li>
+        <li class="mt-6">
+          <h2 class="text-xl lg:text-2xl text-blue-700">A little more?</h2>
+          <p class="text-base lg:text-lg">Things with me everyday are 15.4" MacBook Pro mid 2019 running latest version of macOS.</p>
+        </li>
+      </ul>
+    </div>
 
   </Layout>
 </template>
@@ -21,13 +19,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'About Me'
   }
 }
 </script>
-
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>
