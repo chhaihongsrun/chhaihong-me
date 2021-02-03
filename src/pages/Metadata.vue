@@ -1,14 +1,23 @@
 <template>
   <Layout>
     <div class="text-gray-600 mt-6 lg:mt-12">
-      <h1 class="text-xl text-gray-400">hi[at]chhaihong[dot]me</h1>
+      <h1 class="text-xl text-gray-400">chhaihongsrun[at]gmail[dot]com</h1>
       <ul class="list-inside">
         <li class="mt-6 border-l-2 border-teal-600 pl-2">
           <h2 class="leading-none mb-2 text-base text-teal-600">Now</h2>
+          <p class="leading-none text-base text-teal-700">Freelancer</p>
+          <div class="mt-2">
+            <a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-gray-400 hover:text-gray-200">Full stack web developer</a>
+            <a href="https://php.net/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-gray-400 hover:text-gray-200">PHP</a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-gray-400 hover:text-gray-200">TypeScript</a>
+          </div>
+        </li>
+        <li class="mt-6 border-l-2 border-gray-600 pl-2">
+          <h2 class="leading-none mb-2 text-base text-teal-600">Feb 2019 - Jan 2021</h2>
           <p class="leading-none text-base text-teal-700">Software Engineer at Vodworks</p>
           <div class="mt-2">
-            <a href="https://php.net/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-teal-700 hover:text-teal-500">PHP</a>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-teal-700 hover:text-teal-500">TypeScript</a>
+            <a href="https://php.net/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-gray-400 hover:text-gray-200">PHP</a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow" class="font-light text-sm py-1 px-2 mr-2 border border-teal-600 rounded-full text-gray-400 hover:text-gray-200">TypeScript</a>
           </div>
         </li>
         <li class="mt-8 border-l-2 border-gray-600 pl-2">
@@ -54,7 +63,8 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Metadata'
+    title: 'Full stack web developer',
+    description: 'I will build your complete website.',
   }
 }
 </script>

@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Chhaihong Srun',
+  siteName: 'Chhaihong SRUN',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
