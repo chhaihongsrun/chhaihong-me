@@ -57,7 +57,7 @@ query {
 
 <style scoped>
 .nav .active--exact.active {
-  color: #fca5a5 !important;
-  background-color: #b91c1c !important;
+  color: #111827 !important;
+  background-color: #f59e0b !important;
 }
 </style>
