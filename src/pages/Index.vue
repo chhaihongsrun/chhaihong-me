@@ -4,7 +4,7 @@
       <ul class="list-inside">
         <li class="mt-6">
           <h2 class="text-xl text-gray-700 lg:text-2xl">A little bit about me</h2>
-          <p class="text-base text-gray-500">A am a developer based in Cambodia. I am interested in anything that is related to Computer, from Backend to Frontend.</p>
+          <p class="text-base text-gray-500">A am a <b>Software Engineer</b> based in <b>Phnom Penh</b>, <b>Cambodia</b>. I am interested in anything that is related to Computer, from <b>Backend</b> to <b>Frontend</b> building <b>Web Applications</b>.</p>
         </li>
         <li class="mt-6">
           <h2 class="text-xl text-gray-700 lg:text-2xl">A little more?</h2>
